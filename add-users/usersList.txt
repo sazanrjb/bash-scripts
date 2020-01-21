@@ -1,0 +1,4 @@
+Superman staff /home/BROWN Aaron 
+Batman student /home/SMITH John 
+Joker accounting /home/MILLER Dale 
+Antman staff /home/SMITH Emma 
